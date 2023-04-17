@@ -11,7 +11,7 @@ using ClubeLeitura.ConsoleApp.ModuloRevista;
  * Utilizar mais Herança em Propriedades repetidas ex: (id)
  * Implementar Funcionalidade do Status do Emprestimo, Aberto, Fechado ou Devolvido e Historico
  * Trazer Metodo Deletar dos Repositorios para Telas
- * 
+ * Renomear Class Compartilhado
  */
 
 
